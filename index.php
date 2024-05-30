@@ -37,8 +37,18 @@
                             <td>Prueba</td>
                             <td>Prueba</td>
                             <td>
-                                
                                 <a href = "#" class = "btn btn-warning">Editar</a>
+                                <a href="#" class = "btn btn-danger">Eliminar</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Prueba2</td>
+                            <td>Prueba2</td>
+                            <td>Prueba2</td>
+                            <td>Prueba2</td>
+                            <td>Prueba2</td>
+                            <td>
+                                <a href="#" class = "btn btn-warning">Editar</a>
                                 <a href="#" class = "btn btn-danger">Eliminar</a>
                             </td>
                         </tr>
